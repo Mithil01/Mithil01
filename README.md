@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mithil</h1>
 <h3 align="center">Machine Learning Aficionado</h3>
 
-<img  align="centre" alt="Coding" width="1000" src="https://images.unsplash.com/photo-1601132359864-c974e79890ac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDd8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=600&q=60">
+<img  align="centre" alt="Coding" width="1000" src="https://images.unsplash.com/photo-1535378917042-10a22c95931a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDZ8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=600&q=60">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mithil01" alt="mithil01" /></a> </p>
 

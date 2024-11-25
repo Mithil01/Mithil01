@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mithil01" alt="mithil01" /></a> </p>
 
-- 🌱 I’m currently learning **Deep Learning and MLOps**
+- 🌱 I’m currently working on **Deep Learning and MLOps projects**
 
-- 👯 I’m looking to collaborate on **NLP projects**
+- I’m looking to collaborate on **NLP projects(LLM)**
 
 - 💬 Ask me about **Machine Learning**
 

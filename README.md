@@ -17,8 +17,14 @@
 - 📫 Reach me at: **mithilgaonkar01@gmail.com**
 
 ## 🏆 Certifications
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="146648ab-374e-491c-8241-090e49b3e83e" data-share-badge-host="[https://www.credly.com"](https://www.credly.com/badges/0017d110-2c05-4af1-9ca0-b12737711e1f/public_url)></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div align="center">
+    <a href="https://www.credly.com/badges/0017d110-2c05-4af1-9ca0-b12737711e1f/public_url" target="_blank">
+        <img src="https://images.credly.com/size/340x340/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png" 
+             width="150" 
+             alt="AWS Certified Machine Learning - Specialty"
+             style="margin: 10px" />
+    </a>
+</div>
 
 ## 💻 Featured Projects
 

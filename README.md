@@ -17,11 +17,11 @@
 - 📫 Reach me at: **mithilgaonkar01@gmail.com**
 
 ## 🏆 Certifications
-<div align="center">
+<div align="left">
     <a href="https://www.credly.com/badges/0017d110-2c05-4af1-9ca0-b12737711e1f/public_url" target="_blank">
         <img src="https://images.credly.com/size/340x340/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png" 
              width="150" 
-             alt="AWS Certified Machine Learning - Specialty"
+             alt="AWS Certified Machine Learning Engineer "
              style="margin: 10px" />
     </a>
 </div>

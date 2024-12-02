@@ -17,7 +17,7 @@
 - 📫 Reach me at: **mithilgaonkar01@gmail.com**
 
 ## 🏆 Certifications
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="146648ab-374e-491c-8241-090e49b3e83e" data-share-badge-host="https://www.credly.com"></div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="146648ab-374e-491c-8241-090e49b3e83e" data-share-badge-host="[https://www.credly.com"](https://www.credly.com/badges/0017d110-2c05-4af1-9ca0-b12737711e1f/public_url)></div>
 <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ## 💻 Featured Projects

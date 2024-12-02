@@ -32,7 +32,7 @@
 <a href="https://github.com/Mithil01/Hybrid-Search-GraphRAG">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mithil01&repo=Hybrid-Search-GraphRAG&theme=dark" />
 </a>
-<a href="https://github.com/Mithil01/project2">
+<a href="[https://github.com/Mithil01/project2](https://github.com/Mithil01/Multi-Task-Sentence-Transformer)">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mithil01&repo=Medical-QA-System&theme=dark" />
 </a>
 </div>

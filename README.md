@@ -62,9 +62,6 @@
     <a href="https://linkedin.com/in/mithil-gaonkar" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://kaggle.com/mithil-gaonkar" target="_blank">
-        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-    </a>
     <a href="https://leetcode.com/mithil07" target="_blank">
         <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
     </a>

@@ -16,10 +16,30 @@
 - 💡 Open to collaborate on **innovative ML/AI projects**
 - 📫 Reach me at: **mithilgaonkar01@gmail.com**
 
+## 🏆 Certifications
 <div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=mithil01&theme=darkhub&no-frame=true&margin-w=15" alt="mithil01" />
+    <a href="https://www.credly.com/badges/YOUR-BADGE-ID">
+        <img src="https://images.credly.com/size/340x340/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png" width="150" alt="AWS Certified Machine Learning - Specialty">
     </a>
+</div>
+
+## 💻 Featured Projects
+
+<div align="center">
+<a href="https://github.com/Mithil01/Hybrid-Search-GraphRAG">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mithil01&repo=Hybrid-Search-GraphRAG&theme=dark" />
+</a>
+<a href="https://github.com/Mithil01/project2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mithil01&repo=Medical-QA-System&theme=dark" />
+</a>
+</div>
+<div align="center">
+<a href="https://github.com/Mithil01/project3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mithil01&repo=CustomerSegmentation-ClusteringML&theme=dark" />
+</a>
+<a href="https://github.com/Mithil01/project4">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mithil01&repo=Image-Classification-CNN&theme=dark" />
+</a>
 </div>
 
 ## 🛠️ Tech Stack
@@ -40,11 +60,18 @@
     <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white" />
 </p>
 
-### Databases & Cloud
+### Cloud & DevOps
+<p align="center">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
+
+### Databases
 <p align="center">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
 ## 📊 GitHub Stats
@@ -61,6 +88,9 @@
 <p align="center">
     <a href="https://linkedin.com/in/mithil-gaonkar" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://kaggle.com/mithil-gaonkar" target="_blank">
+        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
     </a>
     <a href="https://leetcode.com/mithil07" target="_blank">
         <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />

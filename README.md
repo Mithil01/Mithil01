@@ -33,7 +33,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mithil01&repo=Hybrid-Search-GraphRAG&theme=dark" />
 </a>
 <a href="https://github.com/Mithil01/Multi-Task-Sentence-Transformer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mithil01&repo=Medical-QA-System&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mithil01&repo=Multi-Task-Sentence-Transformer&theme=dark" />
 </a>
 </div>
 <div align="center">

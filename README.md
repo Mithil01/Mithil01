@@ -37,11 +37,11 @@
 </a>
 </div>
 <div align="center">
-<a href="https://github.com/Mithil01/project3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mithil01&repo=CustomerSegmentation-ClusteringML&theme=dark" />
+<a href="https://github.com/Mithil01/Deploying-end-end-Car-Rental-Database-on-AWS-RDS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mithil01&repo=Deploying-end-end-Car-Rental-Database-on-AWS-RDS&theme=dark" />
 </a>
-<a href="https://github.com/Mithil01/project4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mithil01&repo=Image-Classification-CNN&theme=dark" />
+<a href="https://github.com/Mithil01/Visual-Question-Answering-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mithil01&repo=Visual-Question-Answering-System&theme=dark" />
 </a>
 </div>
 

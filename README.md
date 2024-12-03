@@ -1,6 +1,6 @@
 # <div align="center">👋 Hi, I'm Mithil</div>
 
-#<div align="center">
+<div align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&random=false&width=500&height=60&lines=Machine+Learning+Engineer;Deep+Learning+Engineer;MLOps+Engineer;NLP+Developer" alt="Typing SVG" />
     </a>
